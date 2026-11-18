@@ -1,5 +1,7 @@
-print("Hello Git!")
+print("Hello Git and GitHub !")
 
-name = "Krishna"
+name = "Python Developer"
+age = 22
 
 print("My name is", name)
+print("My age is", age)
